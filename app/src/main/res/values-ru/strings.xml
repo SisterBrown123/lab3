@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Кулинарные рецепты</string>
+    <string name="toolbar_title">30 дней рецептов</string>
+    <string name="day_format">День %1$d</string>
+    <string name="detail_toolbar_title">День %1$d</string>
+    <string name="tip_image_description">Иллюстрация рецепта</string>
+</resources>
